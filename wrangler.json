@@ -1,7 +1,8 @@
 {
-  "name": "worker-name",
+  "name": "redirect-homelab",
   "compatibility_date": "2025-08-31",
-  "assets": {
-    "directory": "./dist"
+  "pages_build_output_dir": "./dist",
+  "build": {
+    "command": "npm run build"
   }
 }

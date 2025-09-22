@@ -1,7 +1,7 @@
 {
   "public": [
     {
-      "href": "chat.cpzhmlb.lat",
+      "href": "https://chat.cpzhmlb.lat",
       "icon": "/images/chatgpt.svg",
       "name": "ChatGPT"
     },
@@ -38,9 +38,9 @@
       "name": "Lidarr"
     },
     {
-        "href": "https://llm.cpzhmlb.lat",
-        "icon": "/images/litellm.svg",
-        "name": "Lite LLM"
+      "href": "https://llm.cpzhmlb.lat",
+      "icon": "/images/litellm.svg",
+      "name": "Lite LLM"
     },
     {
       "href": "https://prowlarr.cpzhmlb.lat",
